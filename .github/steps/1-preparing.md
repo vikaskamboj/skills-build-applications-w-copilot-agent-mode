@@ -86,5 +86,6 @@ If you don't get feedback, here are some things to check:
 
 - Make sure your created the branch with the exact name `build-octofit-app`. No prefixes or suffixes.
 - Make sure the branch was indeed published to your repository.
+- Check the **Actions** tab in your repository on GitHub to see if any workflows failed. If there are errors, review the logs for details.
 
 </details>
